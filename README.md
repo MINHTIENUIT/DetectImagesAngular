@@ -1,2 +1,2 @@
 # DetectImagesAngular
-Detecting images app with angular framework. This app use API of IBM (Visual Recognition)
+Detecting images app with angular framework. This app uses API of IBM (Visual Recognition)
