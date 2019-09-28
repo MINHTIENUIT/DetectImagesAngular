@@ -1,0 +1,11 @@
+<input type="hidden" #selection>
+
+<div class="card-container">
+  <div class="card card-small" (click)="selection.value = 'component'" tabindex="0">    
+    <a routerLink="/detect-files"><span style="font-weight: bold">Detect Files</span></a>
+  </div>
+  
+  <div class="card card-small" (click)="selection.value = 'material'" tabindex="0">        
+    <a routerLink="/detect-urls"><span style="font-weight: bold">Detect URLs</span></a>    
+  </div>
+</div>
