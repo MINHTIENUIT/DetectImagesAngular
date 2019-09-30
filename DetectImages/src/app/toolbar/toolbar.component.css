@@ -17,8 +17,18 @@
   }
 
   .toolbar #twitter-logo {
-    height: 40px;
+    height: 35px;
     margin: 0 16px;
+  }
+
+  .toolbar #twitter-logo:hover {
+    opacity: 0.8;
+  }
+
+  .toolbar #facebook-logo {
+    height: 27px;
+    margin: 0 16px; 
+    margin-bottom: 10px;       
   }
 
   .toolbar #twitter-logo:hover {
